@@ -21,6 +21,8 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- text
+- bytestring
 - protolude
 # - base == 4.11.1.0
 # - protolude == 0.2.2

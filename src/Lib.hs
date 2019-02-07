@@ -2,6 +2,6 @@ module Lib
     ( Foo (..)
     ) where
 
-import           Protolude
+import           Prelude
 
-data Foo  = Foo  Text
+data Foo  = Foo [Char]
