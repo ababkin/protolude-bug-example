@@ -24,9 +24,6 @@ dependencies:
 - text
 - bytestring
 - protolude
-# - base == 4.11.1.0
-# - protolude == 0.2.2
-# - freer-simple
 
 library:
   source-dirs: src
