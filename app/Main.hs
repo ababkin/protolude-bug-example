@@ -7,11 +7,11 @@
 
 module Main where
 
-import           Lib       ()
--- import           Lib     (Foo (..))
-
 import qualified Data.Text as T
 import           Prelude
+
+-- data Foo  = Foo [Char]
+--           deriving (Eq, Show)
 
 -- taken and simplified from the Protolude package:
 -- https://github.com/sdiehl/protolude/blob/master/src/Protolude/Conv.hs
